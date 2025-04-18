@@ -20,3 +20,8 @@ Added a function to retrieve the user's registered name directly:
 function getMyName() public view returns (string memory) {
     return people[msg.sender].name;
 }
+```
+### React Feature: Wallet Address Display
+```react
+<p className="account-address">Account: {account}</p>
+```
