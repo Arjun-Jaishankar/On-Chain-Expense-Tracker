@@ -1,6 +1,7 @@
 # On-Chain Expense Tracker
 
-![Project Screenshot](./screenshot.png)
+![Project Screenshot](https://github.com/user-attachments/assets/0f3ac12f-b404-461f-8858-0b76e263d2cd)
+
 
 A decentralized application for tracking and splitting expenses among college students, with all data stored on the Ethereum blockchain.
 
